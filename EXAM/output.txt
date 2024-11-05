@@ -1,0 +1,11 @@
+n: 10, k: 7
+Point (1, <decoded_value_1>) decoded from base 6
+Point (2, <decoded_value_2>) decoded from base 15
+Point (3, <decoded_value_3>) decoded from base 15
+Point (4, <decoded_value_4>) decoded from base 16
+Point (5, <decoded_value_5>) decoded from base 8
+Point (6, <decoded_value_6>) decoded from base 3
+Point (7, <decoded_value_7>) decoded from base 3
+Point (8, <decoded_value_8>) decoded from base 6
+Point (9, <decoded_value_9>) decoded from base 12
+Point (10, <decoded_value_10>) decoded from base 7
